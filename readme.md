@@ -20,7 +20,7 @@
 
     选择second.json这个文件，它的response中正好包含了票房榜的全部数据。同时他的Request Url指向的是：```https://box.maoyan.com/promovie/api/box/second.json```。进入这个地址，果然藏得就是当天的票房信息，还是Json格式的。图片如下：
 
-    ![分析]([https://raw.githubusercontent.com/mapleftian/github-img/master/%E7%8C%AB%E7%9C%BC%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%88%AC%E5%8F%96/%E5%9B%BE2-1.PNG?token=ACCT2I5QN5IJBKIHVGFBYVK42G56O](https://raw.githubusercontent.com/mapleftian/github-img/master/猫眼电影票房爬取/图2-1.PNG?token=ACCT2I5QN5IJBKIHVGFBYVK42G56O))
+    ![分析](https://github.com/mapleftian/github-img/blob/master/%E7%8C%AB%E7%9C%BC%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%88%AC%E5%8F%96/%E5%9B%BE2-1.PNG?raw=true)
 
     ![json页面](https://github.com/mapleftian/github-img/blob/master/%E7%8C%AB%E7%9C%BC%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%88%AC%E5%8F%96/%E5%9B%BE2-2.PNG?raw=true)
 
