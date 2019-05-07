@@ -28,7 +28,7 @@
 
     ![日期分析](https://github.com/mapleftian/github-img/blob/master/%E7%8C%AB%E7%9C%BC%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%88%AC%E5%8F%96/%E5%9B%BE2-3.PNG?raw=true)
 
-    点击json文件，跳转到一个地址为[```<https://box.maoyan.com/promovie/api/box/second.json?beginDate=20190423>```](<https://box.maoyan.com/promovie/api/box/second.json?beginDate=20190423>)的地址。正好是我们需要的4月23号信息。我们随便调整下日期，发现数据也随着日期进行变化。OK，此时我们就得到了应该爬取的地址了。
+    点击json文件，跳转到一个地址为[```https://box.maoyan.com/promovie/api/box/second.json?beginDate=20190423```](<https://box.maoyan.com/promovie/api/box/second.json?beginDate=20190423>)的地址。正好是我们需要的4月23号信息。我们随便调整下日期，发现数据也随着日期进行变化。OK，此时我们就得到了应该爬取的地址了。
 
     ![图2-4](https://github.com/mapleftian/github-img/blob/master/%E7%8C%AB%E7%9C%BC%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%88%AC%E5%8F%96/%E5%9B%BE2-4.PNG?raw=true)
 
