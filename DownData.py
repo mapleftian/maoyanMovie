@@ -37,7 +37,7 @@ class downData():
         }
         self.year = 2019
         self.month = 1
-        self.day = 2
+        self.day = 1
 
     def run(self):
         year = self.year
@@ -63,14 +63,13 @@ class downData():
         with open(f"data/{date}.txt", 'w+', encoding='utf8') as fp:
             fp.write(str(soup.p.string))
 
-
-if __name__ == '__main__':
-    year = 2019
-    month = 1
-    day = 1
-    d = downData()
-    d.year = year
-    d.month = month
-    d.day = day
-    d.run()
-    print("end")
+# if __name__ == '__main__':
+#     year = 2019
+#     month = 1
+#     day = 1
+#     d = downData()
+#     d.year = year
+#     d.month = month
+#     d.day = day
+#     d.run()
+#     print("end")
