@@ -50,6 +50,7 @@ class downData():
             print(f"已完成{beginDate.strftime('%Y%m%d')}文件的下载。")
             time.sleep(2)
             beginDate += datetime.timedelta(days=1)
+        print('down end')
 
     def _download(self, date):
         '''

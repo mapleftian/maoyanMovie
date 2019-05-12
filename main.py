@@ -10,10 +10,14 @@
 """
 import saveSql as ssql
 import DownData as dd
+import draw
 
 
 def run():
+    down = dd()
+    down.run()
     ssql.run()
+    draw.run()
 
 
 if __name__ == '__main__':
